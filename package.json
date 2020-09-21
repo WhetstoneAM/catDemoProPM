@@ -1,0 +1,22 @@
+{
+  "name": "catdemopropm",
+  "version": "1.0.0",
+  "description": "Check out our other projects [here](www.google.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhetstoneAM/catDemoProPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhetstoneAM/catDemoProPM/issues"
+  },
+  "homepage": "https://github.com/WhetstoneAM/catDemoProPM#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
